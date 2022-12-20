@@ -24,6 +24,7 @@ MS COCO
 | Model | Test Size | AP<sup>test</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | batch 1 fps | batch 32 average time |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | [**YOLOv7tiny**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) | 640 | **38.7%** | **56.7%** | **41.7%** | 286 *fps* | 2.0 *ms* |
+|  |  |  |  |  |  |  |
 | [**YOLOv7**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) | 640 | **51.4%** | **69.7%** | **55.9%** | 161 *fps* | 2.8 *ms* |
 | [**YOLOv7-X**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt) | 640 | **53.1%** | **71.2%** | **57.8%** | 114 *fps* | 4.3 *ms* |
 |  |  |  |  |  |  |  |
